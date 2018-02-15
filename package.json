@@ -34,6 +34,6 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "react": "^16.0.0-rc.2",
+    "react": "^16.0.0-rc.2"
   }
 }
